@@ -1,0 +1,2 @@
+metadonnee.duckdb filter=lfs diff=lfs merge=lfs -text
+métadonnées.csv filter=lfs diff=lfs merge=lfs -text
